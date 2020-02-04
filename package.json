@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/puneetsran/Battleship/issues"
   },
-  "homepage": "https://github.com/puneetsran/Battleship#readme"
+  "homepage": "https://github.com/puneetsran/Battleship#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
